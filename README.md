@@ -1,1 +1,1 @@
-My name is neo
+This repository contains solutions to shell tasks
