@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -amp | sort -d
+ls -amp | sort -d 
+0 string SCHOOL school data
+!:mime School
